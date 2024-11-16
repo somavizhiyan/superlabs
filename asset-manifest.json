@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/superlabs/static/css/main.fca9fc48.css",
+    "main.js": "/superlabs/static/js/main.38b2c01e.js",
+    "static/js/453.7a6f89ee.chunk.js": "/superlabs/static/js/453.7a6f89ee.chunk.js",
+    "index.html": "/superlabs/index.html",
+    "main.fca9fc48.css.map": "/superlabs/static/css/main.fca9fc48.css.map",
+    "main.38b2c01e.js.map": "/superlabs/static/js/main.38b2c01e.js.map",
+    "453.7a6f89ee.chunk.js.map": "/superlabs/static/js/453.7a6f89ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fca9fc48.css",
+    "static/js/main.38b2c01e.js"
+  ]
+}
